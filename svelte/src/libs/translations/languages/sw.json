@@ -1,0 +1,101 @@
+{
+    "id": "sw",
+    "label": "Kiswahili",
+    "translations": {
+      "store-search-placeholder": "tafuta kifurushi",
+      "action": {
+        "update": "sasisha",
+        "cancel": "ghairi"
+      },
+      "package": {
+        "update-all": "SASISHA ZOTE",
+        "cta-AVAILABLE": "WEKA",
+        "cta-INSTALLED": "IMEWEKWA",
+        "cta-INSTALLING": "INAWEKA",
+        "cta-UNINSTALLED": "WEKA TENA",
+        "cta-UNINSTALL": "ONDOA",
+        "cta-NEEDS_UPDATE": "SASISHA",
+        "cta-UPDATING": "INASASISHA",
+        "cta-UPDATED": "IMESASISHWA",
+        "cta-PRUNE": "PUNGUZA",
+        "cta-PRUNING": "INAPUNGUZA",
+        "open": "FUNGUA",
+        "open-in-terminal": "FUNGUA KWENYE TERMINAL",
+        "local-package": "kifurushi cha ndani",
+        "not-in-pantry": "haijawekwa kwenye pantry"
+      },
+      "footer": {
+        "quick-links-title": "viungo vya haraka",
+        "about-tea-store": "kuhusu duka la chai",
+        "report-a-problem": "ripoti tatizo",
+        "visit-website": "tembelea tea.xyz",
+        "terms-services": "masharti na huduma",
+        "privacy-policy": "sera ya faragha"
+      },
+      "documentation": {
+        "title": "nyaraka",
+        "workshops": "warsha"
+      },
+      "view-all": "ona zote",
+      "sorting": {
+        "label": "Panga kwa",
+        "popularity": "Maarufu zaidi",
+        "most-recent": "Za hivi karibuni"
+      },
+      "common": {
+        "home": "nyumbani",
+        "all": "Zote",
+        "articles": "Makala",
+        "workshops": "Warsha",
+        "metadata": "Metadata",
+        "homepage": "Ukurasa wa Nyumbani",
+        "documentation": "Nyaraka",
+        "github-repository": "Hifadhi ya GitHub",
+        "repository": "Hifadhi",
+        "contributors": "Wachangiaji",
+        "view-on-github": "TAZAMA KWENYE GITHUB"
+      },
+      "tabs": {
+        "details": "pkg",
+        "cli": "cli",
+        "gui": "gui"
+      },
+      "notification": {
+        "update-header": "sasisha tea/gui hadi {{version}}?",
+        "gui-restarting": "Kuendelea kutasababisha programu ianze upya baada ya kukamilika. Hakikisha huna shughuli zozote zinazoendelea. Je, ungependa kuendelea?",
+        "gui-restart": "anza upya"
+      },
+      "side-menu-title": {
+        "discover": "gundua",
+        "all": "Vifurushi Vyote",
+        "installed": "Vifurushi Vilivyowekwa",
+        "installed_updates_available": "Visasisho Vinapatikana",
+        "recently_updated": "Zilizosasishwa Hivi Karibuni",
+        "new_packages": "Vifurushi Vipya",
+        "popular": "Maarufu",
+        "featured": "Zilizoangaziwa",
+        "essentials": "Muhimu",
+        "starstruck": "Starstruck Heavyweights",
+        "made_by_tea": "imetengenezwa na tea",
+        "local_packages": "Vifurushi vya Ndani"
+      },
+      "tags": {
+        "discover": "gundua",
+        "all": "vifurushi vyote",
+        "installed": "vilivyowekwa",
+        "installed_updates_available": "Visasisho vinapatikana",
+        "recently_updated": "Zilizosasishwa hivi karibuni",
+        "new_packages": "Vifurushi vipya",
+        "popular": "Maarufu",
+        "featured": "Zilizoangaziwa",
+        "essentials": "Muhimu",
+        "starstruck": "Starstruck",
+        "made_by_tea": "Imetengenezwa na tea",
+        "local_packages": "Vifurushi vya Ndani"
+      },
+      "discover": {
+        "featured_title": "vitu muhimu vya AI ya ndani",
+        "featured_description": "Chunguza ulimwengu wa AI ya ndani. Hii ni jukwaa lako la kujaribu vifaa maarufu vya AI kama AutoGPT na Stable Diffusion Web UI, moja kwa moja kutoka kwenye mfumo wako wa ndani. Anza miradi yako ya AI huku ukiweka data yako salama na salama, na uhuru wa kubinafsisha unavyotaka."
+      }
+    }
+  }
