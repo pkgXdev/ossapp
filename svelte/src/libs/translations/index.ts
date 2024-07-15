@@ -50,6 +50,10 @@ import bn from "./languages/bn.json";
 import eu from "./languages/eu.json";
 import ca from "./languages/ca.json";
 import mn from "./languages/mn.json";
+import ha from "./languages/ha.json";
+import hi from "./languages/hi.json";
+import sw from "./languages/sw.json";
+import ur from "./languages/ur.json";
 
 import * as customModifiers from "./modifiers";
 
@@ -107,7 +111,11 @@ const languages = [
   bn,
   eu,
   ca,
-  mn
+  mn,
+  ha,
+  hi,
+  sw,
+  ur
 ];
 
 const langs: { [lang: string]: string } = {};

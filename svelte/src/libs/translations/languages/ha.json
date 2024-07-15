@@ -1,0 +1,101 @@
+{
+    "id": "ha",
+    "label": "Hausa",
+    "translations": {
+      "store-search-placeholder": "nemo kaya",
+      "action": {
+        "update": "sabunta",
+        "cancel": "soke"
+      },
+      "package": {
+        "update-all": "SABUNTA DUKA",
+        "cta-AVAILABLE": "SAKA",
+        "cta-INSTALLED": "AN SAKA",
+        "cta-INSTALLING": "ANA SAKA",
+        "cta-UNINSTALLED": "SAKE SAKA",
+        "cta-UNINSTALL": "CIRE",
+        "cta-NEEDS_UPDATE": "SABUNTA",
+        "cta-UPDATING": "ANA SABUNTAWA",
+        "cta-UPDATED": "AN SABUNTA",
+        "cta-PRUNE": "RAGE",
+        "cta-PRUNING": "ANA RAGE",
+        "open": "BUDE",
+        "open-in-terminal": "BUDE A TERMINAL",
+        "local-package": "kayan gida",
+        "not-in-pantry": "ba a ƙara ga wurin ajiya ba"
+      },
+      "footer": {
+        "quick-links-title": "hanyoyin sauri",
+        "about-tea-store": "game da shagon shayi",
+        "report-a-problem": "ba da rahoto kan matsala",
+        "visit-website": "ziyarci tea.xyz",
+        "terms-services": "sharuɗɗa da huɗuma",
+        "privacy-policy": "manufar sirri"
+      },
+      "documentation": {
+        "title": "takardu",
+        "workshops": "ayyukan hannu"
+      },
+      "view-all": "duba duka",
+      "sorting": {
+        "label": "Tsara ta",
+        "popularity": "Mafi shahara",
+        "most-recent": "Na baya-bayan nan"
+      },
+      "common": {
+        "home": "gida",
+        "all": "Duka",
+        "articles": "Labarai",
+        "workshops": "Ayyukan hannu",
+        "metadata": "Metadata",
+        "homepage": "Shafin Gida",
+        "documentation": "Takardu",
+        "github-repository": "Ma'ajiyar GitHub",
+        "repository": "Ma'ajiya",
+        "contributors": "Masu taimako",
+        "view-on-github": "DUBA A GITHUB"
+      },
+      "tabs": {
+        "details": "pkg",
+        "cli": "cli",
+        "gui": "gui"
+      },
+      "notification": {
+        "update-header": "sabunta tea/gui zuwa {{version}}?",
+        "gui-restarting": "Ci gaba zai sa manhajar ta sake kunna bayan an gama. Ka tabbatar ba ka da wani aiki da ke gudana. Kana son ci gaba?",
+        "gui-restart": "sake kunna"
+      },
+      "side-menu-title": {
+        "discover": "gano",
+        "all": "Duk Kayaye",
+        "installed": "Kayaye da aka Saka",
+        "installed_updates_available": "Akwai Sabuntawa",
+        "recently_updated": "An Sabunta Kwanan nan",
+        "new_packages": "Sabuwar Kaya",
+        "popular": "Shahararru",
+        "featured": "Zaɓaɓɓu",
+        "essentials": "Muhimmai",
+        "starstruck": "Manyan Starstruck",
+        "made_by_tea": "an yi ta shayi",
+        "local_packages": "Kayan Gida"
+      },
+      "tags": {
+        "discover": "gano",
+        "all": "duk kayaye",
+        "installed": "an saka",
+        "installed_updates_available": "Akwai sabuntawa",
+        "recently_updated": "An sabunta kwanan nan",
+        "new_packages": "Sabuwar kaya",
+        "popular": "Shahararru",
+        "featured": "Zaɓaɓɓu",
+        "essentials": "Muhimmai",
+        "starstruck": "Starstruck",
+        "made_by_tea": "An yi ta shayi",
+        "local_packages": "Kayan Gida"
+      },
+      "discover": {
+        "featured_title": "muhimman AI na gida",
+        "featured_description": "Bincika duniyar AI na gida. Wannan shine dandamalinku don gwada kayan aikin AI da suka shahara kamar AutoGPT da Stable Diffusion Web UI, kai tsaye daga tsarin ku na gida. Fara ayyukan AI naku yayin da kuke kiyaye bayaninku lafiya kuma amintacce, tare da 'yancin yin daidaitawa yadda kuke so."
+      }
+    }
+  }
